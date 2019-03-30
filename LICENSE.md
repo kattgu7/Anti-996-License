@@ -15,8 +15,12 @@ THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
 
 
 [1] Drafted by Katt Gu, J.D, University of Illinois, College of Law; Ph.D.student in Informatics, University of Illinois, Urbana-Champaign
+
 [2] This draft is adapted from the MIT license
+
 [3] This has expanded the scope beyond merely employment and labor law
+
 [4] Where the person was born or naturalized means the person’s nationally
+
 [5] Core international labor standards have established the minimum requirements on labor protection which the participating members must comply with. 
 
