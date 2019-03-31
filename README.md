@@ -1,7 +1,7 @@
-# 996-License-Draft
-996 License Draft
+# Anti996-License-Draft
+Anti996 License Draft
 
-# About 996 License 
+# About Anti996 License 
 
 This version of 996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law; Ph.D. student in Informatics, University of Illinois, Urbana-Champaign](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).
 
