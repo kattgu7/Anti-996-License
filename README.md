@@ -1,5 +1,5 @@
-# Anti996-License-Draft
-Anti996 License Draft
+# Anti 996-License-Draft
+Anti 996 License Draft
 
 # About Anti996 License 
 
