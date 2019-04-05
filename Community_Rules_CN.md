@@ -1,4 +1,4 @@
-Anti 996 License 社区行为准则
+# Anti 996 License 社区行为准则
 
 在 Anti 996 License Repo，希望能够参与社群的大家在这里尽情的交流和分享。
 
