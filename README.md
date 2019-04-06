@@ -17,6 +17,7 @@ This draft is adapted from the MIT license. For more detailed explanation, pleas
 
 # Community Rule
 
+[Community Rule](https://github.com/kattgu7/Anti-996-License/blob/master/Community_Rules_EN.md)
 [中文社区准则](https://github.com/kattgu7/Anti-996-License/blob/master/Community_Rules_CN.md)
 
 # Media Coverage About Anti 996 License
