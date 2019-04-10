@@ -8,6 +8,8 @@ Anti 996 License Version 1.0
 # Foreword from Katt
 The project is started purely out of my research interest with no political factors involved. The study of open source license is a new area of law and it indicates that China has gradually gainning discourse power in the world in terms of high-tech industry. I believe that one day China will have its own open source foundation and will have a say in making the rules for open source software. I hope that the project will be maintained as a research project with support from domestic academic institutions. 
 
+我和Suji不是996ICU的发起人，也无法左右996ICU repo的维护人对其repo做出的任何决定。我们坚决反对个人以任何公益活动或学术研究的名义接受捐款，也不会接受任何捐款。谢谢。
+
 
 # About Anti 996 License 
 
