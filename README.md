@@ -8,8 +8,7 @@ Anti 996 License Version 1.0
 # Foreword from Katt
 The project is started purely out of my research interest with no political factors involved. The study of open source license is a new area of law and it indicates that China has gradually gainning discourse power in the world in terms of high-tech industry. I believe that one day China will have its own open source foundation and will have a say in making the rules for open source software. I hope that the project will be maintained as a research project with support from domestic academic institutions. 
 
-我们不会以个人名义接受任何捐款。谢谢。
-
+In addtion, we won't accept any donation under our names. Thanks. 
 
 # About Anti 996 License 
 
@@ -26,7 +25,8 @@ This draft is adapted from the MIT license. For more detailed explanation, pleas
 # Media Coverage About Anti 996 License
 1. Financial Times: https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1
 2. ZDNet: [996.ICU : Sur Github, les développeurs chinois donnent de la voix](https://www.zdnet.fr/actualites/996icu-sur-github-les-developpeurs-chinois-donnent-de-la-voix-39882985.htm)
-3. WIRED 《连线》杂志: [How github is helping overworked chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
+3. WIRED: [How github is helping overworked chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
+4. Motherboard Vice: https://motherboard.vice.com/en_us/article/mbz84n/chinese-workers-are-trying-to-bake-fair-labor-practices-into-software
 
 
 
