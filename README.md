@@ -27,10 +27,14 @@ This draft is adapted from the MIT license. For more detailed explanation, pleas
 2. ZDNet: [996.ICU : Sur Github, les développeurs chinois donnent de la voix](https://www.zdnet.fr/actualites/996icu-sur-github-les-developpeurs-chinois-donnent-de-la-voix-39882985.htm)
 3. WIRED: [How github is helping overworked chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
 4. Motherboard Vice: [Chinese Workers Are Trying to Bake Fair Labor Practices Into Software](https://motherboard.vice.com/en_us/article/mbz84n/chinese-workers-are-trying-to-bake-fair-labor-practices-into-software)
-5. Quartz: [How GitHub became a bulletin board for Chinese tech worker complaints](https://qz.com/1589309/996-icu-github-hosts-chinese-tech-worker-complaints/]
+5. Quartz: [How GitHub became a bulletin board for Chinese tech worker complaints](https://qz.com/1589309/996-icu-github-hosts-chinese-tech-worker-complaints/) 
 6. Techcrunch: [China’s startup ecosystem is hitting back at demanding working hours](https://techcrunch.com/2019/04/12/china-996/)
 7. South China Morning Post: [Quantity or quality? China’s ‘996’ work culture comes under scrutiny](https://www.scmp.com/tech/start-ups/article/3005947/quantity-or-quality-chinas-996-work-culture-comes-under-scrutiny)
-8. Reuters: [Rare overtime protest by China tech workers goes viral](https://www.reuters.com/article/us-china-tech-labour/rare-overtime-protest-by-china-tech-workers-goes-viral-idUSKCN1RH12B]
+8. Reuters: [Rare overtime protest by China tech workers goes viral](https://www.reuters.com/article/us-china-tech-labour/rare-overtime-protest-by-china-tech-workers-goes-viral-idUSKCN1RH12B)
+9. Le Monde: [High-tech : les développeurs chinois dénoncent leurs conditions de travail](https://www.lemonde.fr/economie/article/2019/04/13/high-tech-les-developpeurs-chinois-denoncent-leurs-conditions-de-travail_5449830_3234.html)
+10. NPR: [GitHub Has Become A Haven For China's Censored Internet Users](https://www.npr.org/2019/04/10/709490855/github-has-become-a-haven-for-chinas-censored-internet-users)
+11. SupChina: [China’s exploited tech workers fight back](https://supchina.com/podcast/chinas-exploited-tech-workers-fight-back/)
+12. CGTN: [The Point: Can you handle China's demanding 996 overtime schedule?] (https://www.youtube.com/watch?v=hyg8ai3p1z8)
 
 
 
