@@ -6,7 +6,7 @@ Anti 996 License Version 1.0
 
 
 # Foreword from Katt
-The project is started purely out of my research interest with no political factors involved. The study of open source license is a new area of law and it indicates that China has gradually gainning discourse power in the world in terms of high-tech industry. I believe that one day China will have its own open source foundation and will have a say in making the rules for open source software. I hope that the project will be maintained as a research project with support from domestic academic institutions. 
+The project is started purely out of my research interest with no political factors involved. The study of open source license is a new area of law and it indicates that China has gradually gaining discourse power in the world in terms of high-tech industry. I believe that one day China will have its own open source foundation and will have a say in making the rules for open source software. I hope that the project will be maintained as a research project with support from domestic academic institutions. 
 
 In addtion, we won't accept any donation under our names. Thanks. 
 
